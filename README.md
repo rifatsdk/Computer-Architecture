@@ -1,10 +1,10 @@
 Requirements: Ensure the following libraries are installed in your Colab environment:
 
-transformers
-tensorflow
-psutil
-pynvml
-pandas
+transformers,
+tensorflow,
+psutil,
+pynvml,
+pandas,
 
 You can install these libraries by running:
 

@@ -9,7 +9,7 @@ Large Language Models, or LLMs, have become very popular recently. They are wide
 https://medium.com/@rifatsdk/energy-consumption-and-optimization-of-llm-models-in-training-ac2f59a008ac
 
 # Approach
-
+ ## Requirements: transformers torch, pynvml, psutil, Pillow
  ## Models:
 * GPT-2
    

@@ -10,7 +10,7 @@ https://medium.com/@rifatsdk/energy-consumption-and-optimization-of-llm-models-i
 
 # Approach
  ## Requirements: 
- transformers torch, pynvml, psutil, Pillow
+ transformers, torch, pynvml, psutil, Pillow
  ## Models:
 * GPT-2
    

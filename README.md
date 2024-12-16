@@ -5,7 +5,7 @@ Large Language Models, or LLMs, have become very popular recently. They are wide
 * **Develop a method to continuously track GPU and CPU power usage during training and evaluation.**
 * **Incorporate emissions data directly into the model development workflow.**
 
-# published blog
+# Published blog
 https://medium.com/@rifatsdk/energy-consumption-and-optimization-of-llm-models-in-training-ac2f59a008ac
 
 # Approach

@@ -1,13 +1,12 @@
 # Energy Consumption and Optimization of LLM Models in Training
 Authors: Rifat Sadik, SM Enamul Apan
 
-# published blog
-https://medium.com/@rifatsdk/energy-consumption-and-optimization-of-llm-models-in-training-ac2f59a008ac
-
 Large Language Models, or LLMs, have become very popular recently. They are widely used for tasks like text generation, dialog generation, and translation. Models like GPT and LLaMA are among the most popular examples. These models are trained on huge datasets and use leverage complex neural networks. While this makes them powerful and efficient, it also means they consume a lot of energy. The objective of this projects are:
-
 * **Develop a method to continuously track GPU and CPU power usage during training and evaluation.**
 * **Incorporate emissions data directly into the model development workflow.**
+
+# published blog
+https://medium.com/@rifatsdk/energy-consumption-and-optimization-of-llm-models-in-training-ac2f59a008ac
 
 # Approach
 

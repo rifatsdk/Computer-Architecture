@@ -42,7 +42,7 @@ https://github.com/almarengo/gpt2-text-classification/tree/main
 * Carbon Emission
 
 # Reference list
-1. https://github.com/rifatsdk/Computer-Architecture
+1. https://github.com/almarengo/gpt2-text-classification/tree/main
 2. de Vries, Alex. "The growing energy footprint of artificial intelligence." Joule 7.10 (2023): 2191-2194.
 3. Wilkins, G., Keshav, S., & Mortier, R. (2024). Offline energy-optimal llm serving: Workload-based energy models for llm inference on heterogeneous systems. arXiv preprint arXiv:2407.04014.
 4. Kachris, C. (2024). A survey on hardware accelerators for large language models. arXiv preprint arXiv:2401.09890.

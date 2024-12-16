@@ -19,16 +19,6 @@ Large Language Models, or LLMs, have become very popular recently. They are wide
   CUDA version: 12.2
   
   NVIDIA-SMI 535.104.05
-  
-  
-* Colab
-  
-  GPU: H100, MI300(info missing)
-  
-  CUDA version: 12.2
-  
-  Torch Version: 2.5.1+cu121
-
 
 ## Dataset:
 Processed tweets

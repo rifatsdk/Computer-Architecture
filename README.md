@@ -34,6 +34,16 @@ https://github.com/almarengo/gpt2-text-classification/tree/main
 * Energy Consumtion
 * Carbon Emission
 
+# Result Analysis
+
+![image](https://github.com/rifatsdk/Computer-Architecture/blob/main/plot%20for%20energy_emissions_training.png)
+
+
+Analysis: 
+Energy Efficiency- GPU vs. CPU: GPUs proved to outperform CPU in energy efficiency and speed both during training and evaluation tasks. Speed of computation and energy consumption reduced significantly due to parallel processing that GPUs are capable of. Pre-trained layers, when frozen, lowered the amount of energy consumption and emissions because no gradient calculations have to be performed for those.
+
+CO2 emission environmental impact: GPU training with frozen layers gave the lowest carbon emissions and thus became the most environmentally friendly alternative.
+
 # Reference list
 1. https://github.com/almarengo/gpt2-text-classification/tree/main
 2. de Vries, Alex. "The growing energy footprint of artificial intelligence." Joule 7.10 (2023): 2191-2194.
